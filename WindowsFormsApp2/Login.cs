@@ -14,6 +14,7 @@ namespace WindowsFormsApp2
     public partial class Login : Form
     {
         Form1 Form1=new Form1();
+
         Form2 Form2=new Form2();    
         DataDisplay dataDisplay;
         static string myconnstring = @"Data Source=DESKTOP-GELNTAD\SQLEXPRESS;Initial Catalog=IDIADemo;Integrated Security=True";
